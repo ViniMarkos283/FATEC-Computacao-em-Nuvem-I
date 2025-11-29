@@ -14,7 +14,14 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - um pouco sobre o SaaS;
 
 #### Resumo da aula do dia 29/11 (Reposição de sábado)
+##### Parte 1 - presencial:
 - Responsabilidade compartilhada;
 - Zonas de disponibilidade;
 - criação de conta na Azure;
 - inicio de exploração dentro da plataforma Azure;
+- 
+##### Parte 2 - Remoto:
+- beneficios da nuvem - escalabilidade, disponibilidade, segurança...;
+- criterios na criação de uma maquina virtual (região, hardware, colocar criptografia, IP...);
+- prgramação para a P1 - revisar conteúdo até o slide 10;
+
