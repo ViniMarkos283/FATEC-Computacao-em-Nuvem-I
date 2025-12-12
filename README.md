@@ -3,8 +3,8 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ### Tecnologias usadas
 [![My Skills](https://skillicons.dev/icons?i=azure&perline=3)](https://skillicons.dev)
-- Microsoft Azure
 
+<img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
 ### Organização das pastas
 #### Existem a pasta: ``Anotações de aula``, que serve para guardar anotações feitas durante a aula.
