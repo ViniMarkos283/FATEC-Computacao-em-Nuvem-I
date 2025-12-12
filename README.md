@@ -1,27 +1,15 @@
 ## FATEC-Computação-em-Nuvem-I
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento da disciplina de CEN1(Computação em nuvem I) na Fatec Diadema.
 
-#### Resumo da aula do dia 18/11
-- inicio da matéria de Computação em nuvem 1;
-- Descrever o que são Cliente e servidor: cliente (quem faz as requisições), API (meio que conecta o cliente com o servidor) e servidor (quem recebe e devolve as requisições);
-- Definição de conceitos de nuvem: entrega sob demanda (só paga o que usar);
-- Tipos de implementação de nuvem: On-premise (local), cloud (remoto) e hibrido (os 2 juntos);
+### Tecnologias usadas
+[![My Skills](https://skillicons.dev/icons?i=azure&perline=3)](https://skillicons.dev)
+- Microsoft Azure
 
-#### Resumo da aula do dia 25/11
-- Recaptulação dos temas passados na ultima aula;
-- Maquinas virtuais e zonas de disponibilidade;
-- Responsabilidade;
-- um pouco sobre o SaaS;
 
-#### Resumo da aula do dia 29/11 (Reposição de sábado)
-##### Parte 1 - presencial:
-- Responsabilidade compartilhada;
-- Zonas de disponibilidade;
-- criação de conta na Azure;
-- inicio de exploração dentro da plataforma Azure;
-- 
-##### Parte 2 - Remoto:
-- beneficios da nuvem - escalabilidade, disponibilidade, segurança...;
-- criterios na criação de uma maquina virtual (região, hardware, colocar criptografia, IP...);
-- prgramação para a P1 - revisar conteúdo até o slide 10;
+### Organização das pastas
+#### Existem a pasta: ``Anotações de aula``, que serve para guardar anotações feitas durante a aula.
 
+### Links externos
+#### Segue abaixo os links de outros conteúdos referentes a esta matéria:
+- [Material de aula - Drive;](https://drive.google.com/drive/folders/1ULbE1dQ-US9MqGf2P9YA1cN0DevDhw3q?usp=sharing) 
+- [Gravação do uso das VMs - YouTube;](...) (Em andamento);
