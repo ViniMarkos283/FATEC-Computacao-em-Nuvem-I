@@ -12,4 +12,4 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ### Links externos
 #### Segue abaixo os links de outros conteúdos referentes a esta matéria:
 - [Material de aula - Drive;](https://drive.google.com/drive/folders/1ULbE1dQ-US9MqGf2P9YA1cN0DevDhw3q?usp=sharing) 
-- [Gravação do uso das VMs - YouTube;](...) (Em andamento);
+- [Gravação do teste e uso das VMs - YouTube;](https://youtu.be/CiAlSNwjH7E);
