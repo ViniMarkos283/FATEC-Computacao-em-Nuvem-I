@@ -7,7 +7,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
 ### Organização das pastas
-#### Existem a pasta: ``Anotações de aula``, que serve para guardar anotações feitas durante a aula.
+#### Existem as pastas: ``Anotações de aula`` e ``prints dos questionarios``, sendo um que serve para guardar anotações feitas durante a aula e o outro para guardar prints de atividades feitas para provar sua conclusão.
 
 ### Links externos
 #### Segue abaixo os links de outros conteúdos referentes a esta matéria:
